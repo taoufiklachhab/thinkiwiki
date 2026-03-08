@@ -3,10 +3,10 @@
 Bienvenue dans l'espace physique.
 
 ## Cours disponibles
-- [Introduction](/matieres/physique/cours/introduction)
+- [Introduction](/matieres/sante/cours/introduction)
 
 ## Exercices
-- [Exercices](/matieres/physique/exercices/exercices)
+- [Exercices](/matieres/sante/exercices/exercices)
 
 ## Corrections
-- [Corrections](/matieres/physique/corrections/corrections)
+- [Corrections](/matieres/sante/corrections/corrections)
