@@ -1,6 +1,6 @@
 # ++ physique
 
-Bienvenue dans l'espace physique.
+Bienvenue dans l'espace sante.
 
 ## Cours disponibles
 - [Introduction](/matieres/sante/cours/introduction)
