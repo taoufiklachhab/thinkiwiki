@@ -10,7 +10,7 @@ hero:
 
 <div class="matiere-card">
   <h3>🧠 Philosophie</h3>
-  <p>Cours d'introduction, éthique, logique</p>
+  <p>Cours d'introduction, éthique, logique, test</p>
   <a href="/matieres/philosophie/">Accéder</a>
 </div>
 
