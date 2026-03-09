@@ -1,10 +1,9 @@
 ---
 layout: home
 hero:
-  name: "📚 Portail pédagogique"
-  # text: "Ressources par matière"
-  # tagline: Philosophie • Mathématiques • Programmation • Web • Bases de données • Technologie • Projet Prog
-  tagline: taoufik lachhab
+  name: "📚 ThinkiWiki"
+  text: "Portail pédagogique"
+  tagline: "Ressources par matière pour tous les niveaux"
 
 features:
 
