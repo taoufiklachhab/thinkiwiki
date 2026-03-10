@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matieres/sante/cours/diabete.md",
+                "file": "matieres/sante/cours/AVC-neuro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diabete"
+              "title": "AVC-neuro"
             }
           }
         ]
@@ -184,5 +184,12 @@
     }
   },
   "active": "bf41147321d4cd2b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "matieres/sante/cours/asthme-pneumo.md",
+    "matieres/sante/cours/appendicite-gastro.md",
+    "matieres/sante/cours/ANGOR-cardio.md",
+    "matieres/sante/cours/anémie.md",
+    "matieres/sante/cours/Alzheimer-neuro.md",
+    "matieres/sante/cours/affections-thyroïdiennes.md"
+  ]
 }

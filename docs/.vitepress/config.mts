@@ -35,7 +35,7 @@ export default defineConfig({
       copyright: "Créé par Taoufik Lachhab"
     },
     
-          // Sidebar personnalisée pour la Santé
+          // Sidebar personnalisée pour la Santé.
 
     sidebar: {
   '/matieres/sante/': [
